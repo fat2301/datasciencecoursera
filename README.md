@@ -1,2 +1,3 @@
 # datasciencecoursera
-My Coursera repository
+
+This is my Coursera repository. 
